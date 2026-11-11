@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zoye-data": {
+      "type": "http",
+      "url": "https://api.zoye.io/mcp"
+    }
+  }
+}
