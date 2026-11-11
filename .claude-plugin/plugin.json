@@ -1,7 +1,7 @@
 {
   "name": "zoye-crm",
-  "displayName": "Zoye",
-  "version": "1.0.0",
+  "displayName": "Zoye CRM",
+  "version": "1.0.1",
   "description": "Work with your Zoye business data from Claude: contacts, leads, deals, tasks, meetings and notes. Connects to Zoye's own MCP server and teaches Claude the everyday flows: daily briefing, pipeline review, meeting notes into records, and follow-ups.",
   "author": { "name": "Zoye", "email": "hello@zoye.io", "url": "https://www.zoye.io" },
   "homepage": "https://www.zoye.io/ai-assistant",
