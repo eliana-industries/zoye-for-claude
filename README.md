@@ -20,7 +20,7 @@ It works in Claude (web, desktop and mobile), Cowork and Claude Code.
 2. When Claude first uses a Zoye tool, sign in to Zoye and approve the workspaces to share.
 3. Ask, for example: "What is on my plate today in Zoye?" or "Log this call in Zoye" with your notes.
 
-You need a Zoye account. Create one at https://www.zoye.io.
+You need a Zoye account on the Scale plan or above. Create one at https://www.zoye.io.
 
 ## Data and safety
 
